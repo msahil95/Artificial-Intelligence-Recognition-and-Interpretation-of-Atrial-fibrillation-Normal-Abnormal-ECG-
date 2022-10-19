@@ -47,7 +47,10 @@ It will be unavailable to the public during the whole Challenge period.
 ![image](https://user-images.githubusercontent.com/109984804/196693059-314525c8-3466-406e-99ea-1b9c3e0fcf97.png)
 
 ![image](https://user-images.githubusercontent.com/109984804/196693116-fb63f75c-af4e-4f4c-8fe7-062f7f9bdfb2.png)
+
 Red mark highlight noise removal
+![image](https://user-images.githubusercontent.com/109984804/196711844-7272d231-4451-440b-ac60-05bd70c943d7.png)
+
 
 ECG time series processing for deep learning algorithms
 1. Zero padding to extend sequences
