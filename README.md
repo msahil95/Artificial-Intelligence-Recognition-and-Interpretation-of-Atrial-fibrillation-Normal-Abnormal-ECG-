@@ -95,6 +95,12 @@ SL no	Accuracy	Validation  	Depth 	Blocks 	Epoch
 2   	75.56	    71.38	          4	    6	      500
 3    	77.81   	76.88         	6	    6	      700
 
+| SL No. | Accuracy | Validation | Depth | Blocks | Epoch |
+|---|---|---|---|---|---|
+| 1 | 80.94 | 78.06 | 2 | 6 | 500 |
+| 2 | 75.56 | 71.38 | 4 | 6 | 500 |
+| 3 | 77.81 | 76.88 | 6 | 6 | 700 |
+
 
 
 
