@@ -91,6 +91,7 @@ Results
 
 
 
+## TABLE 
 
 | SL No. | Accuracy | Validation | Depth | Blocks | Epoch |
 |---|---|---|---|---|---|
@@ -101,7 +102,7 @@ Results
 
 
 
-Supplied model-architecture image
+** Supplied model-architecture image **
 
 <img width="444" height="8484" alt="model" src="https://github.com/user-attachments/assets/efadb442-24cc-4834-aef1-1a03d1537f84" />
 
