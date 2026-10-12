@@ -90,10 +90,7 @@ Results
 ![image](https://user-images.githubusercontent.com/109984804/196696988-c2bde1e9-9ede-43ab-bc21-990edbcbba7a.png)
 
 
-SL no	Accuracy	Validation  	Depth 	Blocks 	Epoch
-1	    80.94    	78.06	          2	    6	      500
-2   	75.56	    71.38	          4	    6	      500
-3    	77.81   	76.88         	6	    6	      700
+
 
 | SL No. | Accuracy | Validation | Depth | Blocks | Epoch |
 |---|---|---|---|---|---|
@@ -102,6 +99,11 @@ SL no	Accuracy	Validation  	Depth 	Blocks 	Epoch
 | 3 | 77.81 | 76.88 | 6 | 6 | 700 |
 
 
+
+
+Supplied model-architecture image
+
+<img width="444" height="8484" alt="model" src="https://github.com/user-attachments/assets/efadb442-24cc-4834-aef1-1a03d1537f84" />
 
 
 
